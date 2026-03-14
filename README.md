@@ -27,6 +27,8 @@
 - 🎭 **PersonaTool** 🇬🇧 — Product-market fit testing with LLM-generated synthetic personas
 - 🚧 **Reddit Promo Planner** 🇬🇧 — AI-powered Reddit promotion scheduling via LLM *(under construction)*
 - 💰 **[PriceScanner](https://github.com/justi/price_scanner)** — Ruby gem for multi-currency price extraction from text
+- 🔒 **[claude-code-project-boundary](https://github.com/justi/claude-code-project-boundary)** — Claude Code plugin: scope-aware protection for destructive ops within project boundaries
+- 💪 **[stimulus-password-strength](https://github.com/justi/stimulus-password-strength)** — Importmap-friendly Rails 8 password strength field with Stimulus & zxcvbn
 
 ## What I'm About
 
