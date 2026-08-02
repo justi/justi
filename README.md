@@ -32,6 +32,7 @@
 ## Open Source
 
 - 📜 **[ruby_llm-contract](https://github.com/justi/ruby_llm-contract)** - Validate and retry LLM outputs for ruby_llm: describe the expected JSON, fall back to a stronger model, gate CI on regressions ([demo](https://github.com/justi/ruby_llm-contract_demo))
+- 🖥️ **[Aya](https://github.com/khasinski/aya)** - Desktop workspace for long-lived coding-agent terminals (Claude Code, Codex, Aider, ...) - co-author, with [@khasinski](https://github.com/khasinski)
 - 🧭 **[ollama-task-router](https://github.com/justi/ollama-task-router)** - Task-based prompt router for Ollama: a small model classifies each prompt and routes it to the best local specialist
 - ⚡ **[ollama-bench](https://github.com/justi/ollama-bench)** - Reproducible, zero-dependency benchmark of local LLMs: speed (tok/s), energy, reasoning and code quality
 - 🔁 **[ollama-agentic-loop](https://github.com/justi/ollama-agentic-loop)** - Benchmark of local agentic coding: test-feedback loop over Ollama + solve@K scorer
