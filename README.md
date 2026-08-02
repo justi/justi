@@ -19,10 +19,10 @@
 
 ## Production Projects
 
-- 🛒 **[Snipe Sale](https://snipe.sale)** 🇬🇧🇵🇱 - Track promotions from niche shops, not products
+- 🛒 **[Snipe Sale](https://snipe.sale)** 🇬🇧🇵🇱🇫🇷🇩🇪🇪🇸🇮🇹 - Track promotions from niche shops, not products - 6 country markets
 - 🥑 **[KetoLabs.pl](https://ketolabs.pl)** 🇵🇱 - Keto/LCHF/LCHP education hub - built it because I follow LCHF myself
 - ✍️ **[OutlineShare](https://outlineshare.com)** 🇬🇧 - LinkedIn content workflow: write, schedule, publish, grow
-- 📝 **[CramZap](https://cramzap.com)** 🇬🇧 / **[Odpytywarka.pl](https://odpytywarka.pl)** 🇵🇱 - Upload a PDF, get an interactive quiz (OpenAI-powered)
+- 📝 **[CramZap](https://cramzap.com)** 🌍 / **[Odpytywarka.pl](https://odpytywarka.pl)** 🇵🇱 - Upload a PDF, get an interactive quiz (OpenAI-powered) - 11 language versions
 - 🔍 **[HybridRanking](https://hybridranking.com)** 🇬🇧 - SEO auditing tool with real-time analysis
 - 📚 **[Conftrace](https://conftrace.com)** 🇬🇧 - Research papers from 36 top CS/AI conferences: search, authors, topics, trends - built on my [researchpooler](https://github.com/justi/researchpooler) fork (of karpathy's)
 - 🎭 **PersonaTool** 🇬🇧 - Product-market fit testing with LLM-generated synthetic personas
