@@ -28,7 +28,7 @@
 - 🔍 **[HybridRanking](https://hybridranking.com)** 🇬🇧 - SEO auditing tool with real-time analysis
 - 📚 **[Conftrace](https://conftrace.com)** 🇬🇧 - Research papers from 36 top CS/AI conferences: search, authors, topics, trends - built on my [researchpooler](https://github.com/justi/researchpooler) fork (of karpathy's)
 - 🎭 **PersonaTool** 🇬🇧 - Product-market fit testing with LLM-generated synthetic personas
-- 📖 **[Anglofaza](https://anglofaza.pl)** 🇵🇱 - Learn English with fresh BBC articles (OpenAI-powered) - my first AI project (2023)
+- 📖 **[Anglofaza](https://anglofaza.pl)** 🇵🇱 - Learn English with fresh BBC articles (OpenAI-powered) - my first AI-driven project (2023)
 
 ## Open Source
 
