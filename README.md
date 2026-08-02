@@ -10,30 +10,40 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/-OpenCode-24292e?style=flat-square&logo=github&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Full-stack Rails developer shipping production apps — from health tools and EdTech to SaaS platforms and marketing automation. AI-assisted, human-driven.
+> Full-stack Rails developer shipping production apps - from health tools and EdTech to SaaS platforms and marketing automation. AI-assisted, human-driven.
 
 ## Production Projects
 
-- 🛒 **[Snipe Sale](https://snipe.sale)** 🇬🇧🇵🇱 — Track promotions from niche shops, not products
-- 🥑 **[KetoLabs.pl](https://ketolabs.pl)** 🇵🇱 — Keto/LCHF/LCHP education hub — built it because I follow LCHF myself
-- ✍️ **[OutlineShare](https://outlineshare.com)** 🇬🇧 — LinkedIn content workflow: write, schedule, publish, grow
-- 📝 **[CramZap](https://cramzap.com)** 🇬🇧 / **[Odpytywarka.pl](https://odpytywarka.pl)** 🇵🇱 — Upload a PDF, get an interactive quiz (OpenAI-powered)
-- 🔍 **[HybridRanking](https://hybridranking.com)** 🇬🇧 — SEO auditing tool with real-time analysis
-- 🎭 **PersonaTool** 🇬🇧 — Product-market fit testing with LLM-generated synthetic personas
-- 💰 **[PriceScanner](https://github.com/justi/price_scanner)** — Ruby gem for multi-currency price extraction from text
-- 🔒 **[claude-code-project-boundary](https://github.com/justi/claude-code-project-boundary)** — Claude Code plugin: scope-aware protection for destructive ops within project boundaries
-- 💪 **[stimulus-password-strength](https://github.com/justi/stimulus-password-strength)** — Importmap-friendly Rails 8 password strength field with Stimulus & zxcvbn
+- 🛒 **[Snipe Sale](https://snipe.sale)** 🇬🇧🇵🇱 - Track promotions from niche shops, not products
+- 🥑 **[KetoLabs.pl](https://ketolabs.pl)** 🇵🇱 - Keto/LCHF/LCHP education hub - built it because I follow LCHF myself
+- ✍️ **[OutlineShare](https://outlineshare.com)** 🇬🇧 - LinkedIn content workflow: write, schedule, publish, grow
+- 📝 **[CramZap](https://cramzap.com)** 🇬🇧 / **[Odpytywarka.pl](https://odpytywarka.pl)** 🇵🇱 - Upload a PDF, get an interactive quiz (OpenAI-powered)
+- 🔍 **[HybridRanking](https://hybridranking.com)** 🇬🇧 - SEO auditing tool with real-time analysis
+- 🎭 **PersonaTool** 🇬🇧 - Product-market fit testing with LLM-generated synthetic personas
+
+## Open Source
+
+- 📜 **[ruby_llm-contract](https://github.com/justi/ruby_llm-contract)** - Validate and retry LLM outputs for ruby_llm: describe the expected JSON, fall back to a stronger model, gate CI on regressions ([demo](https://github.com/justi/ruby_llm-contract_demo))
+- 🧭 **[ollama-task-router](https://github.com/justi/ollama-task-router)** - Task-based prompt router for Ollama: a small model classifies each prompt and routes it to the best local specialist
+- ⚡ **[ollama-bench](https://github.com/justi/ollama-bench)** - Reproducible, zero-dependency benchmark of local LLMs: speed (tok/s), energy, reasoning and code quality
+- 🔁 **[ollama-agentic-loop](https://github.com/justi/ollama-agentic-loop)** - Benchmark of local agentic coding: test-feedback loop over Ollama + solve@K scorer
+- 🔒 **[claude-code-project-boundary](https://github.com/justi/claude-code-project-boundary)** - Claude Code plugin: scope-aware protection for destructive ops within project boundaries
+- 💪 **[stimulus-password-strength](https://github.com/justi/stimulus-password-strength)** - Importmap-friendly Rails 8 password strength field with Stimulus & zxcvbn
+- 💰 **[PriceScanner](https://github.com/justi/price_scanner)** - Ruby gem for multi-currency price extraction from text
+- 📷 **[xiaomi-cw300-unifi](https://github.com/justi/xiaomi-cw300-unifi)** - Bridge a cloud-locked Xiaomi CW300 camera into UniFi Protect via go2rtc + a minimal ONVIF adapter
 
 ## What I'm About
 
-- **Rails 8 all the way** — Hotwire, Turbo, Stimulus, no heavy JS frameworks needed
-- **AI-augmented development** — Claude Code (agents, skills, commands, hooks) and OpenAI to ship faster
-- **Ship it** — from idea to production in days, not months
-- **Solo founder mode** — designing, building, deploying, and marketing entire products
+- **Rails 8 all the way** - Hotwire, Turbo, Stimulus, no heavy JS frameworks needed
+- **AI-augmented development** - Claude Code (agents, skills, commands, hooks) and OpenAI to ship faster
+- **Local LLMs too** - benchmarking and routing local models on Ollama, measured, not guessed
+- **Ship it** - from idea to production in days, not months
+- **Solo founder mode** - designing, building, deploying, and marketing entire products
 
 ## Connect
 
@@ -44,4 +54,4 @@
 
 ---
 
-> I architect, direct UX, and orchestrate AI agents — they code, I steer. Powered by Polish coffee ☕
+> I architect, direct UX, and orchestrate AI agents - they code, I steer. Powered by Polish coffee ☕
