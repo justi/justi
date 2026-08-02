@@ -44,6 +44,7 @@
 - 📷 **[xiaomi-cw300-unifi](https://github.com/justi/xiaomi-cw300-unifi)** - Bridge a cloud-locked Xiaomi CW300 camera into UniFi Protect via go2rtc + a minimal ONVIF adapter
 - 🔗 Contributor to **[langchainrb](https://github.com/patterns-ai-core/langchainrb)** - merged fix for Chroma vector search queries ([#890](https://github.com/patterns-ai-core/langchainrb/pull/890), released in 0.19.3)
 - 🔭 Contributor to **[MulensModel](https://github.com/rpoleski/MulensModel)** - gravitational microlensing modeling in Python: 13 merged PRs (CI setup, bug fixes, test coverage)
+- 🛣️ Contributor to **[route_translator](https://github.com/enriclluelles/route_translator)** - docs clarification for unlocalized route generation ([#357](https://github.com/enriclluelles/route_translator/pull/357))
 
 ## What I'm About
 
