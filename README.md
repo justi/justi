@@ -40,7 +40,9 @@
 - 🔒 **[claude-code-project-boundary](https://github.com/justi/claude-code-project-boundary)** - Claude Code plugin: scope-aware protection for destructive ops within project boundaries
 - 💪 **[stimulus-password-strength](https://github.com/justi/stimulus-password-strength)** - Importmap-friendly Rails 8 password strength field with Stimulus & zxcvbn
 - 💰 **[PriceScanner](https://github.com/justi/price_scanner)** - Ruby gem for multi-currency price extraction from text
+- 🧹 **[no_comments](https://github.com/justi/no_comments)** - Ruby gem that strips unnecessary comments from .rb files, leaving code clean for deployment
 - 📷 **[xiaomi-cw300-unifi](https://github.com/justi/xiaomi-cw300-unifi)** - Bridge a cloud-locked Xiaomi CW300 camera into UniFi Protect via go2rtc + a minimal ONVIF adapter
+- 🔗 Contributor to **[langchainrb](https://github.com/patterns-ai-core/langchainrb)** - merged fix for Chroma vector search queries ([#890](https://github.com/patterns-ai-core/langchainrb/pull/890), released in 0.19.3)
 
 ## What I'm About
 
