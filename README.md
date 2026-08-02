@@ -43,6 +43,7 @@
 - 🧹 **[no_comments](https://github.com/justi/no_comments)** - Ruby gem that strips unnecessary comments from .rb files, leaving code clean for deployment
 - 📷 **[xiaomi-cw300-unifi](https://github.com/justi/xiaomi-cw300-unifi)** - Bridge a cloud-locked Xiaomi CW300 camera into UniFi Protect via go2rtc + a minimal ONVIF adapter
 - 🔗 Contributor to **[langchainrb](https://github.com/patterns-ai-core/langchainrb)** - merged fix for Chroma vector search queries ([#890](https://github.com/patterns-ai-core/langchainrb/pull/890), released in 0.19.3)
+- 🔭 Contributor to **[MulensModel](https://github.com/rpoleski/MulensModel)** - gravitational microlensing modeling in Python: 13 merged PRs (CI setup, bug fixes, test coverage)
 
 ## What I'm About
 
