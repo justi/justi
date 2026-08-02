@@ -24,6 +24,7 @@
 - ✍️ **[OutlineShare](https://outlineshare.com)** 🇬🇧 - LinkedIn content workflow: write, schedule, publish, grow
 - 📝 **[CramZap](https://cramzap.com)** 🇬🇧 / **[Odpytywarka.pl](https://odpytywarka.pl)** 🇵🇱 - Upload a PDF, get an interactive quiz (OpenAI-powered)
 - 🔍 **[HybridRanking](https://hybridranking.com)** 🇬🇧 - SEO auditing tool with real-time analysis
+- 📚 **[Conftrace](https://conftrace.com)** 🇬🇧 - Research papers from 36 top CS/AI conferences: search, authors, topics, trends
 - 🎭 **PersonaTool** 🇬🇧 - Product-market fit testing with LLM-generated synthetic personas
 
 ## Open Source
